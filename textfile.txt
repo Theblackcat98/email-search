@@ -1,0 +1,4 @@
+email@address.com:test123
+google@mail.com:VeryCool
+test123@qwe.it:NotVeryCool
+o3rhi@nwej.org:pwned
